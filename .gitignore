@@ -1,0 +1,16 @@
+# Just to be safe
+.bash_history
+.lesshst
+.mysql_history
+.node_repl_history
+.python_history
+.sqlite_history
+.units_history
+.zsh/data
+.zsh/data/*
+.DS_Store
+.cache/
+.*.sw[a-z]
+.ssh/
+!.ssh/config
+!.ssh/*.pub
