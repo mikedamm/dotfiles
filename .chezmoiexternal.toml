@@ -16,3 +16,32 @@
     exact = true
     stripComponents = 1
     refreshPeriod = "168h"
+
+[".vim/bundle/vim-sensible"]
+    type = "archive"
+    url = "https://github.com/tpope/vim-sensible/archive/master.tar.gz"
+    exact = true
+    stripComponents = 1
+    refreshPeriod = "168h"
+
+[".vim/bundle/vim-airline"]
+    type = "archive"
+    url = "https://github.com/vim-airline/vim-airline/archive/master.tar.gz"
+    exact = true
+    stripComponents = 1
+    refreshPeriod = "168h"
+
+[".vim/bundle/vim-better-whitespace"]
+    type = "archive"
+    url = "https://github.com/ntpeters/vim-better-whitespace/archive/master.tar.gz"
+    exact = true
+    stripComponents = 1
+    refreshPeriod = "168h"
+
+[".vim/bundle/nerdtree"]
+    type = "archive"
+    url = "https://github.com/preservim/nerdtree/archive/master.tar.gz"
+    exact = true
+    stripComponents = 1
+    refreshPeriod = "168h"
+
