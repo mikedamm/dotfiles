@@ -45,3 +45,10 @@
     stripComponents = 1
     refreshPeriod = "168h"
 
+[".vim/bundle/vim-polyglot"]
+    type = "archive"
+    url = "https://github.com/sheerun/vim-polyglot/archive/master.tar.gz"
+    exact = true
+    stripComponents = 1
+    refreshPeriod = "168h"
+
