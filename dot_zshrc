@@ -21,7 +21,7 @@ COMPLETION_WAITING_DOTS="true"
 
 zstyle ':omz:update' mode disabled  # disable automatic updates
 
-plugins=(git)
+plugins=(git ssh-agent)
 
 source $ZSH/oh-my-zsh.sh
 
