@@ -12,7 +12,7 @@
 .cache/
 .*.sw[a-z]
 .ssh/
-dot_ssh/
+dot_ssh/*
 !dot_ssh/encrypted_config.age
 !dot_ssh/private_authorized_keys
 !dot_ssh/*.pub
